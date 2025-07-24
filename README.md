@@ -1,5 +1,3 @@
-# E-COMMERCE-SALES-ANALYSIS-USING-PYTHON-AND-MYSQL
-
 # ecommerce(target) Sales Project
 
 This project involved a comprehensive data analysis of various datasets related to an e-commerce platform, including customers, sellers, order items, geolocation, payments, orders, and products. The primary goal was to extract actionable insights to support business decision-making.
